@@ -1,0 +1,8 @@
+============FRONT-END REACT:================
+https://github.com/albinagorta/app_react_lara9
+
+============BACK-END PHP/LARAVEL:======================= ApiPosVenta
+https://github.com/albinagorta/ApiPosVenta
+
+===========NODE.JS ========================
+
